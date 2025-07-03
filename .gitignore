@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode files
+*.pyc
+
+# 가상 환경 폴더
+venv/
+
+# 데이터 폴더
+data/
+real_data/
+info/
+
+# 모델 파일
+real_src/model/
+
+# 기타 불필요한 폴더들
+real_src/image/
+real_src/shap,lime/
+real_src/split_data/
+real_src/src
+src/
+real_src/*.csv
+real_src/*.pkl
